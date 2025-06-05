@@ -90,5 +90,6 @@ python3 data_loader/run_copy_commands.py
 - Arman ([Arman On Github](github.com/arman-develops))
 - JohnMwihaki ([JohnMwihaki On Github](github.com/JohnMwihaki))
 - Waithaka Amos [WaithakaGuru on Github](https://github.com//WaithakaGuru)
+- Ivy Mbogo ([Ivy Mbogo On Github](https://github.com/Mbogo47))
 
  🎉 Happy Coding Champ
